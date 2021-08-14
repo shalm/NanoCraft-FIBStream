@@ -8,6 +8,6 @@ Nanophotonics has experienced a tremendous growth in the past decade largely due
 The GUI of NanoCraft-FIBstream is developed using the Matlab GUIDE library. The main codes are written as Matlab scripts. The GUI and the scripts are then compiled.
 
 ## Credits
-Ran Cui developed the Matlab code and GUI as well as tested the tool
-Mikhail Shalaginov desinged and tested the tool
-Alexander Kildishev supervised the project
+Ran Cui developed the Matlab code and GUI as well as tested the tool<br>
+Mikhail Shalaginov desinged and tested the tool<br>
+Alexander Kildishev supervised the project<br>
